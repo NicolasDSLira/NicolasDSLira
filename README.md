@@ -34,11 +34,11 @@
 
 ###
 
-<p align="left">I'm a web developer<br><br>- 🔭 I'm working as a fullstack developer at Raiztec Informática.<br><br>- 📚 I am currently learning Java, React, Docker and C.<br><br>- ⚡ In my free time I read books, do "basic" projects to test my knowledge and play games 👋</p>
+<p align="left">Eu sou um desenvolvedor web apaixonado por inovação e desafios.<br><br>- 🔭 Estou trabalhando como desenvolvedor fullstack na Raiztec Informática.<br><br>- 📚 Atualmente estou aprendendo Java, React, Docker e C.<br><br>- ⚡No meu tempo livre leio livros, desde projetos "básicos" para testar meus conhecimentos e jogar.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h1 align="left">🛠 Linguagem e ferramentas</h1>
 
 ###
 
@@ -120,7 +120,7 @@
 
 ###
 
-<h3 align="left">🔥   Meu status :</h3>
+<h1 align="left">🔥   Meus status :</h1>
 
 ###
 
