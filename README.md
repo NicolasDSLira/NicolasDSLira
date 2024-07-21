@@ -1,113 +1,140 @@
+<br clear="both">
 
-# Olá, eu sou Nicolas Lira! 👋
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/80727008?v=4"  />
+</div>
 
-Desenvolvedor fullstack com 8 anos de experiência. Especializado em HTML5, CSS3, JavaScript ES6, PHP, Laravel, C#, Java, e React. Atualmente desenvolvendo APIs e um webgame baseado em enigma.
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/nicolas-lira-4a704b21b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="nicolasdslira@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/nicolas15lira/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
+###
 
+<h1 align="center">Olá, eu sou Nicolas Lira! 👋</h1>
 
-## 🚀 Sobre mim
+###
 
-Olá! Sou Nicolas dos Santos Lira, um apaixonado desenvolvedor fullstack com 8 anos de experiência na área. Minha jornada começou nas salas de aula da ETEC, onde tive minhas primeiras experiências com desenvolvimento front-end, criando sites básicos que ainda estão disponíveis em meu perfil do GitHub.
+<p align="left">Desenvolvedor fullstack com 8 anos de experiência. Especializado em desenvolvimento WEB com HTML5, CSS3, JavaScript ES6, PHP, Laravel,e React.</p>
 
-##  💫  Inspiração e Desafios
+###
 
-Desde o início, fui inspirado pela oportunidade de criar. Sou uma pessoa criativa, e o desenvolvimento fullstack me permite usar minha criatividade e sede por conhecimento. Um dos principais desafios que enfrentei foi o domínio do inglês, essencial para acessar a vasta documentação em tecnologia. Enfrentei esse desafio com determinação, aprendendo o básico do idioma para absorver o conhecimento necessário.
+<br clear="both">
 
-## 👨🏻‍💻 Projetos e Conquistas
+<h1 align="left">👩‍💻  Sobre mim</h1>
 
-Um dos projetos que considero mais significativos é o desenvolvimento do meu projeto pessoal, chamado Mirror, que será lançado em breve. Cada projeto que realizo me traz satisfação, especialmente quando supero desafios e complexidades.
+###
 
-## 🎓 Habilidades e Aprendizado Contínuo
+<p align="left">I'm a web developer<br><br>- 🔭 I'm working as a fullstack developer at Raiztec Informática.<br><br>- 📚 I am currently learning Java, React, Docker and C.<br><br>- ⚡ In my free time I read books, do "basic" projects to test my knowledge and play games 👋</p>
 
-Minhas habilidades mais fortes estão na programação PHP, JavaScript e CSS, bem como na diagramação de interfaces. Mantenho minhas habilidades atualizadas através de projetos pessoais, estudo constante e leitura frequente da documentação de linguagens e frameworks.
+###
 
-## 👥 Abordagem e Ambiente de Trabalho
+<h3 align="left">🛠 Language and tools</h3>
 
-Ao lidar com problemas complexos de desenvolvimento de software, minha abordagem inclui pesquisa, leitura e até mesmo um jogo para ter o "Eureka"! Prefiro ambientes de trabalho descontraídos, nos quais a comunicação e a troca de ideias fluem de forma mais natural.
+###
 
-## 🤓 Interesses Além da Programação
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
 
-Além da programação, tenho uma paixão por jogos, praticar esportes e exercícios físicos. Como um autêntico "NERD", adoro ler livros, jogar RPG, ler mangá e assistir anime.
+###
 
+<h1 align="left">💫 Inspiração e Desafios</h1>
 
-## 🤖 Domínios
+###
 
-### Desenvolvimento Back-end:
-PHP e Laravel: Capacidade de criar e gerenciar sistemas complexos, desenvolvimento de APIs RESTful, integração de bancos de dados, autenticação e autorização, entre outras funcionalidades.
+<p align="left">Desde o início, fui inspirado pela oportunidade de criar. Sou uma pessoa criativa, e o desenvolvimento fullstack me permite usar minha criatividade e sede por conhecimento. Um dos principais desafios que enfrentei foi o domínio do inglês, essencial para acessar a vasta documentação em tecnologia. Enfrentei esse desafio com determinação, aprendendo o básico do idioma para absorver o conhecimento necessário.</p>
 
-### Desenvolvimento Front-end:
-JavaScript (ES6), React e Next.js: Capacidade de criar interfaces interativas, dinâmicas e responsivas, gerenciamento de estado, manipulação do DOM, entre outras tarefas front-end.
+###
 
-### Banco de Dados:
-MySQL e JSON: Capacidade de projetar e gerenciar bancos de dados relacionais, criar consultas eficientes, armazenar e manipular dados de forma estruturada.
+<h3 align="left">🔥   Meu status :</h3>
 
-### Gestão de Projetos e Ferramentas:
-Controle de Versão (Git): Domínio em controle de versão para gerenciar o histórico de alterações no código fonte, colaboração em equipes, resolução de conflitos, entre outros.
+###
 
-### Infraestrutura e Serviços em Nuvem:
-Administração de Servidores, Docker e Kubernetes: Capacidade de implantar, gerenciar e escalar aplicativos em ambientes de produção, conhecimento em configuração de containers e orquestração de serviços.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasdslira&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasdslira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-### Habilidades Adicionais:
-Autoaprendizagem Contínua e Pesquisa: Capacidade de se manter atualizado com as últimas tecnologias, aprender novas linguagens, frameworks e ferramentas de forma autônoma, e aplicar esse conhecimento em projetos práticos.
+###
 
+<img src="https://raw.githubusercontent.com/nicolasdslira/nicolasdslira/output/snake.svg" alt="Snake animation" />
 
+###
 
+<p align="left">👩‍💻 Trabalho atualmente na Raiztec Informática, onde desenvolvo soluções inovadoras e participo de projetos desafiadores.<br><br>🧠 Estou aprendendo sobre OAuth para aprimorar a segurança e autenticação em meus projetos.<br><br>👯‍♀️ Procuro colaborar em projetos relacionados a desenvolvimento de API RESTful, onde posso contribuir com minha expertise em Laravel e PHP.<br><br>🤔 Procuro ajuda com a integração de tecnologias de inteligência artificial em meus projetos, como machine learning e processamento de linguagem natural.<br><br>💬 Me pergunte sobre desenvolvimento fullstack, boas práticas de programação, e dicas para aprimorar a performance de aplicações web.<br><br>📫 Como entrar em contato comigo: Você pode me enviar um e-mail em nicolasdslira@gmail.com ou conectar-se comigo no LinkedIn.<br><br>😄 Pronomes: Ele/Dele</p>
 
-
-## 🛠 Habilidades
-
-### Back-end:
-- Programação em PHP
-- Experiência em Laravel
-- Conhecimento em C#, Java, Python, .NET, ASP.NET
-- Desenvolvimento de APIs RESTful
-- Utilização de Git e controle de versão
-- Administração de servidores
-
-### Front-end:
-- Programação em JavaScript (ES6)
-- Programação em CSS
-- domínio em HTML5
-- Experiência em React, Next.js
-- Diagramação de interfaces
-- Utilização de JSON
-
-### Banco de Dados:
-- Experiência em MySQL
-- Utilização de JSON para armazenamento e manipulação de dados
-
-## Frameworks e Ferramentas:
-- Laravel (back-end)
-- React, Next.js (front-end)
-- Git (controle de versão)
-- Docker, Kubernetes (infraestrutura)
-- AWS (serviços de nuvem)
-
-
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logoColor=white)](nicolasdslira-web.vercel.app)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-lira-4a704b21b/)
-
-[![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nl.developer/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nicolas46765868)
-
-👩‍💻 Trabalho atualmente na Raiztec Informática, onde desenvolvo soluções inovadoras e participo de projetos desafiadores.
-
-🧠 Estou aprendendo sobre OAuth para aprimorar a segurança e autenticação em meus projetos.
-
-👯‍♀️ Procuro colaborar em projetos relacionados a desenvolvimento de API RESTful, onde posso contribuir com minha expertise em Laravel e PHP.
-
-🤔 Procuro ajuda com a integração de tecnologias de inteligência artificial em meus projetos, como machine learning e processamento de linguagem natural.
-
-💬 Me pergunte sobre desenvolvimento fullstack, boas práticas de programação, e dicas para aprimorar a performance de aplicações web.
-
-📫 Como entrar em contato comigo: Você pode me enviar um e-mail em nicolasdslira@gmail.com ou conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/nicolas-lira-4a704b21b/).
-
-😄 Pronomes: Ele/Dele
-
-⚡️ Fatos engraçados: Adoro resolver problemas de lógica e enigmas. E uma vez, enquanto desenvolvia um projeto de "roleta russa" para PC, acabei esquecendo de abrir o programa em uma máquina virtual e acabei apagando o System32 do meu notebook! Foi uma lição valiosa sobre a importância de testar e executar projetos em ambientes seguros.
-
+###
