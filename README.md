@@ -131,10 +131,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nicolasdslira/nicolasdslira/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">👩‍💻 Trabalho atualmente na Raiztec Informática, onde desenvolvo soluções inovadoras e participo de projetos desafiadores.<br><br>🧠 Estou aprendendo sobre OAuth para aprimorar a segurança e autenticação em meus projetos.<br><br>👯‍♀️ Procuro colaborar em projetos relacionados a desenvolvimento de API RESTful, onde posso contribuir com minha expertise em Laravel e PHP.<br><br>🤔 Procuro ajuda com a integração de tecnologias de inteligência artificial em meus projetos, como machine learning e processamento de linguagem natural.<br><br>💬 Me pergunte sobre desenvolvimento fullstack, boas práticas de programação, e dicas para aprimorar a performance de aplicações web.<br><br>📫 Como entrar em contato comigo: Você pode me enviar um e-mail em nicolasdslira@gmail.com ou conectar-se comigo no LinkedIn.<br><br>😄 Pronomes: Ele/Dele</p>
 
 ###
