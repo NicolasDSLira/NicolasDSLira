@@ -12,8 +12,6 @@
 </div>
 
 ---
-<br />
-
 
 # Nicolas Lira  
 ### Desenvolvedor Full Stack | Business Analytics | IA & Big Data
@@ -102,6 +100,7 @@ https://github.com/NicolasDSLira/GDASH
 ---
 
 Desenvolvido e mantido por **Nicolas Lira**
+
 
 
 
