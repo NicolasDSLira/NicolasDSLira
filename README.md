@@ -16,26 +16,26 @@
 # Nicolas Lira  
 ### Desenvolvedor Full Stack | Business Analytics | IA & Big Data
 
-Construo soluções web escaláveis com foco em **Laravel, React, Vue.js, Node.js, TailwindCSS, PHP, JavaScript e TypeScript**.  
-Minha abordagem é orientada a entrega, arquitetura limpa e resolutividade técnica.
+Construo soluções escaláveis e orientadas a performance usando **Laravel, React, Vue.js, Node.js, TailwindCSS, JavaScript e TypeScript**.  
+Atuo com foco em arquitetura limpa, APIs robustas, automação, integrações e engenharia de software ponta a ponta.
 
-Atualmente concentro meus esforços em **engenharia full stack, automação, APIs REST, inteligência de dados** e boas práticas de versionamento.
-
----
-
-## Visão Profissional
-
-- Background sólido em **desenvolvimento web full stack**  
-- Experiência prática com **infraestrutura, servidores, redes e automação**  
-- Conhecimentos aplicados em **análise de dados e IA**  
-- Desenvolvimento contínuo em **Java, Docker, autenticação segura (JWT/OAuth2) e CI/CD**  
-- Portfólio técnico focado em aplicações reais, APIs robustas e integrações
-
-Minha meta é entregar soluções que tragam eficiência operacional, performance e escalabilidade.
+Minha jornada é guiada por **entregáveis consistentes, otimização contínua e visão orientada a dados**.
 
 ---
 
-## Stack Técnica
+## 📌 Visão Profissional
+
+- Desenvolvimento web **full stack** com alto rigor técnico  
+- Experiência prática com **infraestrutura, servidores e redes**  
+- Aplicações reais usando **análise de dados, IA e processamento distribuído**  
+- Foco atual em **Java, Docker, CI/CD, arquitetura modular e autenticação segura**  
+- Portfólio com sistemas completos, pipelines de dados e dashboards inteligentes  
+
+Minha prioridade é entregar software com **eficiência, escalabilidade e impacto operacional real**.
+
+---
+
+## 🧩 Stack Técnica
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
@@ -56,41 +56,34 @@ Minha meta é entregar soluções que tragam eficiência operacional, performanc
 
 ---
 
-## Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-1. ### 🌦️ **GDASH – Weather Intelligence Dashboard**
-   **Pipeline completo de dados climáticos com microsserviços, IA e dashboard interativo.**  
-Arquitetura distribuída usando Python (coleta), RabbitMQ (fila), Go (processamento), NestJS (API principal) e React + Vite (frontend).  
-Inclui análises inteligentes, exportação de dados, painéis interativos e autenticação JWT.  
-**Stack:** Docker, React, NestJS, Go, Python, MongoDB, Tailwind, shadcn/ui.  
+## 🌦️ GDASH – Weather Intelligence Dashboard
 
-**Repositório:**  
-https://github.com/NicolasDSLira/GDASH [https://github.com/NicolasDSLira/GDASH]
+> Sistema full-stack moderno para coleta, processamento e análise de dados climáticos com IA integrada
 
----
-
-## Métricas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolasdslira&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasdslira&layout=compact&theme=tokyonight" height="150"/>
-</div>
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 ---
 
-## Contato
+### 🎯 Sobre o Projeto
 
-**Email:** nicolasdslira@outlook.com  
-**LinkedIn:** https://www.linkedin.com/in/nicolas-lira-4a704b21b/
+Pipeline completo para ingestão, classificação e análise climática.  
+Desenvolvido para o processo seletivo **GDASH 2025/02**, utilizando uma arquitetura distribuída e tecnologias modernas.
+
+O dashboard entrega:
+- Monitoramento climático em tempo real  
+- Insights automatizados com IA  
+- Visualizações com gráficos interativos  
+- Exportação de dados (CSV/XLSX)  
+- Gestão de usuários com JWT  
 
 ---
 
-### Deseja uma versão ainda mais elegante?  
-Posso gerar também:
+### 🏗️ Arquitetura
 
-- Uma versão minimalista estilo Apple  
-- Uma versão futurista/neon  
-- Uma versão focada em recrutadores  
-- Uma versão com timeline, badges de conquistas e KPIs técnicos
-
-Só dizer o estilo desejado.
