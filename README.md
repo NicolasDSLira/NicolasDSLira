@@ -12,6 +12,8 @@
 </div>
 
 ---
+<br />
+
 
 # Nicolas Lira  
 ### Desenvolvedor Full Stack | Business Analytics | IA & Big Data
@@ -22,6 +24,7 @@ Atuo com foco em arquitetura limpa, APIs robustas, automação, integrações e 
 Minha jornada é guiada por **entregáveis consistentes, otimização contínua e visão orientada a dados**.
 
 ---
+<br />
 
 ## 📌 Visão Profissional
 
@@ -34,6 +37,8 @@ Minha jornada é guiada por **entregáveis consistentes, otimização contínua 
 Minha prioridade é entregar software com **eficiência, escalabilidade e impacto operacional real**.
 
 ---
+<br />
+
 
 ## 🧩 Stack Técnica
 
@@ -56,6 +61,8 @@ Minha prioridade é entregar software com **eficiência, escalabilidade e impact
 
 ---
 
+<br />
+
 # 🚀 Projetos em Destaque
 
 ### 🌦️ GDASH – Weather Intelligence Dashboard
@@ -69,20 +76,13 @@ Minha prioridade é entregar software com **eficiência, escalabilidade e impact
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-#### 📦 Tecnologias Principais
-
-- **Frontend:** React 18, Vite, TS, Tailwind, shadcn/ui, Recharts  
-- **Backend:** NestJS, MongoDB, JWT, Swagger  
-- **Worker:** Go  
-- **Collector:** Python + FastAPI  
-- **Infra:** Docker, Nginx, RabbitMQ  
-
 #### 🔗 Repositório
 
 **GitHub:**  
 https://github.com/NicolasDSLira/GDASH
 
 ---
+<br />
 
 ## 📊 Métricas do GitHub
 
@@ -92,6 +92,7 @@ https://github.com/NicolasDSLira/GDASH
 </div>
 
 ---
+<br />
 
 ## 📞 Contato
 
@@ -101,5 +102,6 @@ https://github.com/NicolasDSLira/GDASH
 ---
 
 Desenvolvido e mantido por **Nicolas Lira**
+
 
 
