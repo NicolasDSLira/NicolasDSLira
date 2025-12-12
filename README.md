@@ -58,7 +58,7 @@ Minha prioridade é entregar software com **eficiência, escalabilidade e impact
 
 # 🚀 Projetos em Destaque
 
-## 🌦️ GDASH – Weather Intelligence Dashboard
+### 🌦️ GDASH – Weather Intelligence Dashboard
 
 > Sistema full-stack moderno para coleta, processamento e análise de dados climáticos com IA integrada
 
@@ -69,21 +69,37 @@ Minha prioridade é entregar software com **eficiência, escalabilidade e impact
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
+#### 📦 Tecnologias Principais
+
+- **Frontend:** React 18, Vite, TS, Tailwind, shadcn/ui, Recharts  
+- **Backend:** NestJS, MongoDB, JWT, Swagger  
+- **Worker:** Go  
+- **Collector:** Python + FastAPI  
+- **Infra:** Docker, Nginx, RabbitMQ  
+
+#### 🔗 Repositório
+
+**GitHub:**  
+https://github.com/NicolasDSLira/GDASH
+
 ---
 
-### 🎯 Sobre o Projeto
+## 📊 Métricas do GitHub
 
-Pipeline completo para ingestão, classificação e análise climática.  
-Desenvolvido para o processo seletivo **GDASH 2025/02**, utilizando uma arquitetura distribuída e tecnologias modernas.
-
-O dashboard entrega:
-- Monitoramento climático em tempo real  
-- Insights automatizados com IA  
-- Visualizações com gráficos interativos  
-- Exportação de dados (CSV/XLSX)  
-- Gestão de usuários com JWT  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasdslira&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasdslira&layout=compact&theme=tokyonight" height="150"/>
+</div>
 
 ---
 
-### 🏗️ Arquitetura
+## 📞 Contato
+
+**Email:** nicolasdslira@outlook.com  
+**LinkedIn:** https://www.linkedin.com/in/nicolas-lira-4a704b21b/
+
+---
+
+Desenvolvido e mantido por **Nicolas Lira**
+
 
